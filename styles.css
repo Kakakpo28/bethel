@@ -1,0 +1,111 @@
+body {   
+
+	background-color:#EFFBFF;
+	margin-right: 2%;
+}
+
+header
+{
+background-color:#677E52;
+
+padding-top:0px;
+
+}
+nav, ul, h2{
+
+	color:brown;
+	/*position: all;*/
+}
+
+nav, ul, li, a {
+	font-size: 30PX;
+	/*background-color: brown;*/
+display: inline-block;
+text-align: unset;
+/*margin-left: .03%;*/
+/*margin-right: .03%;*/
+/*padding: 0.10%;*/
+
+
+}
+nav, ul, li:hover a{
+	color: brown;
+/*background-color: green;*/
+transition:0.5s all;
+/*margin-left: 100px;*/
+}
+a {
+	color:black;
+	background-color: white;
+	padding: 3px;
+	text-decoration: none;
+	margin-left: 30px;
+
+	
+	
+}
+img{
+margin-top: 0px;
+	margin-left: 100px;
+}
+
+div.presentation h2 {
+		font-size: 50px;
+		text-align: center;
+		text-decoration: underline;
+
+}
+div.presentation p {
+	color:currentColor;
+	font-size: 20px;
+	margin-left: 200px; /* */
+	margin-right:100PX;
+}
+
+
+/*POUR LA PAGE D'ACCEUIL*/
+
+p.presentation_horaire {
+	text-align: center;
+	font-size: 30px;
+}
+
+p.horaire {
+font-size:20px;
+margin-left:500px;
+margin-right: 100px;
+
+
+}
+
+
+
+
+
+
+
+/*pour le footer*/
+footer{
+	background-color: #677E52;
+	/*font-size: 30;*/
+
+}
+
+/*POUR LA PAGE SERVICE */
+h2.presentation_service {
+
+
+font-size: 37px;
+
+color:none;
+text-align: center;
+
+}
+
+p.logo_footer img {
+
+
+	text-align: center;
+	padding:10px;
+
+}
